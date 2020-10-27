@@ -1,0 +1,20 @@
+{
+    "Author": "Joe Levy_",
+    "ContentSize": 3343,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/monitor-azure-websites-using-azure-automation/master/Monitor-AzureWebsite.ps1",
+    "DownloadCount": 2889,
+    "Id": "Monitor-Azure-Websites-25cf58a6",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 225,
+    "RaterCount": 4,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-4-7T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook demonstrates how you could monitor websites in your Azure subscription and alert the on call engineer of issues via text message, as demonstrated in the Azure Automation announcement. It is intended for demonstration purposes only.",
+    "Title": "Monitor Azure Websites using Azure Automation",
+    "UpdatedDate": "2014-11-30T00:00:00",
+    "Url": "https://github.com/azureautomation/monitor-azure-websites-using-azure-automation",
+    "UserTags": "Microsoft Azure, Monitoring, website"
+}
